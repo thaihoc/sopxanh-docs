@@ -228,4 +228,41 @@ Chuỗi phụ thuộc cứng: **HRM → Chấm công → Tiền lương**.
 
 ---
 
+## 7. Phụ lục: Giải nghĩa từ viết tắt
+
+### Các hệ thống công nghệ
+- **ERP (Enterprise Resource Planning):** Hệ thống Hoạch định tài nguyên doanh nghiệp.
+- **MES (Manufacturing Execution System):** Hệ thống Điều hành sản xuất.
+- **WMS (Warehouse Management System):** Hệ thống Quản lý kho.
+- **QMS (Quality Management System):** Hệ thống Quản lý chất lượng.
+- **LIMS (Laboratory Information Management System):** Hệ thống Quản lý thông tin phòng lab/thử nghiệm.
+- **CRM (Customer Relationship Management):** Hệ thống Quản lý quan hệ khách hàng.
+- **HRM (Human Resource Management):** Hệ thống Quản lý nhân sự.
+- **BI (Business Intelligence):** Nền tảng Phân tích dữ liệu kinh doanh thông minh.
+- **IOC (Intelligent Operations Center):** Trung tâm điều hành thông minh.
+- **IoT (Internet of Things):** Internet vạn vật (các thiết bị, cảm biến được kết nối mạng).
+- **SD-WAN (Software-Defined Wide Area Network):** Mạng diện rộng định nghĩa bằng phần mềm, kết nối an toàn các nhà máy/chi nhánh.
+- **SOC (Security Operations Center):** Trung tâm điều hành an toàn thông tin mạng.
+- **DWH (Data Warehouse):** Kho dữ liệu tập trung của doanh nghiệp.
+
+### Các chỉ số và thuật ngữ quản trị
+- **Yield:** Tỷ lệ thu hồi (sản lượng thành phẩm thu được so với nguyên liệu đầu vào).
+- **OEE (Overall Equipment Effectiveness):** Hiệu suất thiết bị tổng thể (đo lường mức độ hiệu quả của dây chuyền sản xuất).
+- **FCR (Feed Conversion Ratio):** Hệ số chuyển đổi thức ăn (lượng thức ăn cần thiết để tạo ra 1kg cá).
+- **ROI (Return on Investment):** Tỷ suất hoàn vốn đầu tư.
+- **BOM (Bill of Materials):** Định mức nguyên vật liệu sản xuất.
+- **FEFO (First Expired, First Out):** Nguyên tắc xuất kho: Hàng có hạn sử dụng gần nhất phải xuất trước.
+- **RPO / RTO (Recovery Point / Time Objective):** Mục tiêu điểm khôi phục / thời gian khôi phục hệ thống khi xảy ra sự cố gián đoạn.
+- **PMO (Project Management Office):** Ban/Văn phòng quản lý dự án.
+
+### Các chứng nhận và tiêu chuẩn
+- **ASC, MSC, BAP:** Các tiêu chuẩn quốc tế uy tín về nuôi trồng và khai thác thủy sản bền vững.
+- **BRC, IFS, HACCP:** Các tiêu chuẩn quốc tế về quản lý chất lượng và vệ sinh an toàn thực phẩm.
+- **IUU (Illegal, Unreported and Unregulated fishing):** Hoạt động đánh bắt cá bất hợp pháp, không khai báo và không theo quy định.
+- **EUDR (EU Deforestation Regulation):** Quy định chống phá rừng của Liên minh Châu Âu.
+- **ESG (Environmental, Social, and Governance):** Khung tiêu chuẩn đo lường về Môi trường, Xã hội và Quản trị doanh nghiệp.
+- **BSCI, SA 8000:** Các tiêu chuẩn về trách nhiệm xã hội trong hoạt động kinh doanh.
+
+---
+
 *Tài liệu đề xuất ở mức định hướng, trung lập về nhà cung cấp. Thời gian, ngân sách và tên sản phẩm – dịch vụ cụ thể sẽ được tinh chỉnh sau Giai đoạn 0 (đánh giá hiện trạng).*
